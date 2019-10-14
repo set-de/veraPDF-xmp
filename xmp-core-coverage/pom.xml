@@ -16,7 +16,7 @@
 
   <dependencies>
     <dependency>
-      <groupId>org.verapdf</groupId>
+      <groupId>de.set.verapdf</groupId>
       <artifactId>verapdf-xmp-core</artifactId>
       <version>${project.version}</version>
     </dependency>
